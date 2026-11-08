@@ -1,8 +1,8 @@
-![Princes of Vanilla Continued](images/banner.svg)
+![Princes of Vanilla Continued](images/banner.png)
 
 # Princes of Vanilla Continued
 
-A Crusader Kings III submod for **Princes of Darkness**. It lets you play the vanilla bookmarks with PoD.
+A Crusader Kings III submod for **Princes of Darkness**. It lets you play the vanilla bookmarks with PoD: **867**, **1066** and **1178**.
 
 The original submod was abandoned, so I picked it up and I keep it updated for the community.
 
